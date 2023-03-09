@@ -8,11 +8,20 @@ Time spent: **X** hours spent in total
 
 ## Required Features
 
+![8B9949B6-819D-41C0-AE1D-41A11F9F758F](https://user-images.githubusercontent.com/56279264/223921841-2bd9d90e-e18a-4157-9fe1-39ef1094719d.gif)
+
+
+![Uploading 8B9949B6-819D-41C0-AE1D-41A11F9F758F.gif…]()
+
+
+
+
+
 The following **required** functionality is completed:
 
-- [ ] Users are able to see a customized app icon and launch screen
-- [ ] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
+- [x] Users are able to see a customized app icon and launch screen
+- [x] Your app should work for any screen size and orientation using AutoLayout constraints
+  - [x] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
 - [ ] Displays at least 5 different movies in a table view
 - [ ] Can tap into detail view of movie with a full description, backdrop image, and title
  
